@@ -16,13 +16,3 @@ class FinancialData(RCDBBase):
 
 
 
-# Table: financial_data
-
-# Columns:
-# 	id	int AI PK
-# 	ticker	varchar(50)
-# 	date	date
-# 	revenue	int
-# 	gp	int
-# 	fcf	int
-# 	capex	int
